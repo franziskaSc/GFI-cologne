@@ -1,0 +1,19 @@
+void main() {
+  Essen zitrone = Essen();
+    zitrone.geschmack="sauer";
+  zitrone.menge= 1;
+  zitrone.zeigeWertean();
+  
+  
+
+}
+class Essen{
+  String geschmack;
+  int menge;
+  
+  void zeigeWertean(){
+    print (this.geschmack);
+    print (this.menge);
+  }
+}
+  
