@@ -1,0 +1,12 @@
+void main() {
+  
+int zahl=3;
+  int ergebniss= zahl+3;
+  print (ergebniss);
+  int ergebniss2 = zahl*5;
+    print (ergebniss2);
+  zahl++;
+  print (zahl);
+  zahl*=zahl;
+  print (zahl);
+}
