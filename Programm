@@ -1,0 +1,15 @@
+void main() {
+ int Zahl= 2;
+  int Zahl2= 3;
+  print(Zahl);
+  print(Zahl2);
+  double Zahl3 = 2.3;
+  double Zahl4 = 3.2;
+  print(Zahl3);
+  print(Zahl4);
+  String Hallo = "Hallo";
+  String Frage = "Wie geht es dir?";
+    print (Hallo);
+ print (Frage);
+
+}
